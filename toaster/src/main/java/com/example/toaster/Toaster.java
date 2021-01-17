@@ -23,7 +23,7 @@ public class Toaster {
     }
     public void setTextColor(String color){
         View view = toast.getView();
-        TextView text = view.findViewById(R.id.message);
+        TextView text = view.findViewById(android.R.id.message);
         int text_color = Color.parseColor(color);
         text.setTextColor(text_color);
     }
