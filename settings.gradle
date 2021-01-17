@@ -1,0 +1,3 @@
+rootProject.name='Toaster'
+include ':app'
+include ':toaster'
