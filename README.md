@@ -37,3 +37,5 @@ Example:
                 toaster.setBackground("#1FAA59");
                 toaster.setTextColor("#FFFFFF");
                 toaster.show();
+
+[![](https://jitpack.io/v/evanemran/Toaster.svg)](https://jitpack.io/#evanemran/Toaster)
